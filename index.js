@@ -80,7 +80,7 @@ const store = {
     }
 }
 
-let phoneNumber = "25761787221"
+let phoneNumber = "256751722033"
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'))
 
 global.botname = "WA BlackBox"
