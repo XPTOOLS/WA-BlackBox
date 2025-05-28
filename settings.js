@@ -3,7 +3,7 @@ const settings = {
   author: '‎',
   botName: "WA BlackBox",
   botOwner: 'FreenetHub Devz', // Your name
-  ownerNumber: '25761787221', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '256751722033', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
